@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @donnellym4
+- 👀 I’m interested in anime/manga, videogames (huge nintendo nerd)
+- 🌱 I’m currently learning C++ basics and Javascript
